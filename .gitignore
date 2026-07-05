@@ -3,3 +3,5 @@
 .pytest_cache/
 test.db
 .agent_logs/
+
+node_modules/
